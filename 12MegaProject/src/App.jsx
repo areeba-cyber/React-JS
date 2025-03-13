@@ -38,4 +38,3 @@ authService.getCurrentUser()
 
 
 export default App
-
